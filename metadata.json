@@ -1,0 +1,5 @@
+{
+  "name": "Clinical History & Status Generator",
+  "description": "An interactive tool for medical professionals to systematically take a patient's history (anamnesis) and record their physical status. The application generates a coherent, clinically-styled text summary ready for medical records.",
+  "requestFramePermissions": []
+}
